@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Architecture" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="15b1e357c67"/>
+	<e:Image id="down" source="pipe_down_png" scaleX="1.8" scaleY="1.8"/>
+	<e:Image id="up" source="pipe_up_png" scaleX="1.8" scaleY="1.8"/>
+</e:Skin>

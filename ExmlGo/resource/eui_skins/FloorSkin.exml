@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="FloorSkin" width="640" height="250" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="15aff8234a1" ></w:Config>
+	<e:Image source="bg_day_png" x="0" y="0" anchorOffsetY="0" height="1136" anchorOffsetX="0" width="640" locked="true"/>
+	<e:Group width="1920" height="250" x="-640" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Image id="floor0" source="land_png" x="640" y="0" anchorOffsetX="0" width="650" anchorOffsetY="0" height="250"/>
+		<e:Image id="floor1" source="land_png" x="1290" y="0" anchorOffsetX="0" width="650" anchorOffsetY="0" height="250"/>
+	</e:Group>
+</e:Skin>

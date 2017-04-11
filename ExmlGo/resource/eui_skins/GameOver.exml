@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameOver" width="640" height="1163" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="text_game_over_png" x="116" y="302" scaleX="2" scaleY="2"/>
+	<e:Image source="score_panel_png" x="82" y="433" scaleX="2" scaleY="2"/>
+	<e:Group id="reset" width="200" height="105" x="44" y="778" anchorOffsetY="0"/>
+	<e:Group id="other" width="200" height="99" x="397" y="778" anchorOffsetY="0"/>
+	<w:Config id="15b1ecef6a8"/>
+</e:Skin>

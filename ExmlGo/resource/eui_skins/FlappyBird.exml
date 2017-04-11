@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="firstGame" width="640" height="877" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:tween="egret.tween.*" >
+	<e:Image source="title_png" x="142" y="302" scaleX="2" scaleY="2"/>
+	<e:Image id="image1" source="button_rate_png" x="246" y="598" scaleX="2" scaleY="2"/>
+	<e:Group id="btnStart" width="200" height="96" x="44" y="778"/>
+	<e:Group id="btnaaa" width="200" height="98" x="397" y="778" anchorOffsetY="0"/>
+</e:Skin>

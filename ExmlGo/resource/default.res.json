@@ -1,0 +1,429 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,angrybird_png,bg_day_png,bg_night_png,bird0_0_png,bird0_1_png,bird0_2_png,bird1_0_png,bird1_1_png,bird1_2_png,bird2_0_png,bird2_1_png,bird2_2_png,button_menu_png,button_ok_png,button_pause_png,button_play_png,button_rate_png,button_restart_png,button_resume_png,button_score_png,button_share_png,cheat_down_png,cheat_normal_png,font_048_png,font_049_png,font_050_png,font_051_png,font_052_png,font_053_png,font_054_png,font_055_png,font_056_png,font_057_png,land_png,medals_0_png,medals_1_png,medals_2_png,medals_3_png,new_png,pipe_down_png,pipe_up_png,pipe2_down_png,pipe2_up_png,QQZone_png,score_panel_png,sina_png,TencentWeibo_png,text_game_over_png,text_ready_png,title_png,tutorial_png,X1_png,X2_png,num_fnt,num_png,bird_json,bird_png",
+			"name": "preload"
+		},
+		{
+			"keys": "",
+			"name": "louding"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/angrybird.png",
+			"type": "image",
+			"name": "angrybird_png"
+		},
+		{
+			"url": "assets/bg_day.png",
+			"type": "image",
+			"name": "bg_day_png"
+		},
+		{
+			"url": "assets/bg_night.png",
+			"type": "image",
+			"name": "bg_night_png"
+		},
+		{
+			"url": "assets/bird0_0.png",
+			"type": "image",
+			"name": "bird0_0_png"
+		},
+		{
+			"url": "assets/bird0_1.png",
+			"type": "image",
+			"name": "bird0_1_png"
+		},
+		{
+			"url": "assets/bird0_2.png",
+			"type": "image",
+			"name": "bird0_2_png"
+		},
+		{
+			"url": "assets/bird1_0.png",
+			"type": "image",
+			"name": "bird1_0_png"
+		},
+		{
+			"url": "assets/bird1_1.png",
+			"type": "image",
+			"name": "bird1_1_png"
+		},
+		{
+			"url": "assets/bird1_2.png",
+			"type": "image",
+			"name": "bird1_2_png"
+		},
+		{
+			"url": "assets/bird2_0.png",
+			"type": "image",
+			"name": "bird2_0_png"
+		},
+		{
+			"url": "assets/bird2_1.png",
+			"type": "image",
+			"name": "bird2_1_png"
+		},
+		{
+			"url": "assets/bird2_2.png",
+			"type": "image",
+			"name": "bird2_2_png"
+		},
+		{
+			"url": "assets/button_menu.png",
+			"type": "image",
+			"name": "button_menu_png"
+		},
+		{
+			"url": "assets/button_ok.png",
+			"type": "image",
+			"name": "button_ok_png"
+		},
+		{
+			"url": "assets/button_pause.png",
+			"type": "image",
+			"name": "button_pause_png"
+		},
+		{
+			"url": "assets/button_play.png",
+			"type": "image",
+			"name": "button_play_png"
+		},
+		{
+			"url": "assets/button_rate.png",
+			"type": "image",
+			"name": "button_rate_png"
+		},
+		{
+			"url": "assets/button_restart.png",
+			"type": "image",
+			"name": "button_restart_png"
+		},
+		{
+			"url": "assets/button_resume.png",
+			"type": "image",
+			"name": "button_resume_png"
+		},
+		{
+			"url": "assets/button_score.png",
+			"type": "image",
+			"name": "button_score_png"
+		},
+		{
+			"url": "assets/button_share.png",
+			"type": "image",
+			"name": "button_share_png"
+		},
+		{
+			"url": "assets/cheat_down.png",
+			"type": "image",
+			"name": "cheat_down_png"
+		},
+		{
+			"url": "assets/cheat_normal.png",
+			"type": "image",
+			"name": "cheat_normal_png"
+		},
+		{
+			"url": "assets/font_048.png",
+			"type": "image",
+			"name": "font_048_png"
+		},
+		{
+			"url": "assets/font_049.png",
+			"type": "image",
+			"name": "font_049_png"
+		},
+		{
+			"url": "assets/font_050.png",
+			"type": "image",
+			"name": "font_050_png"
+		},
+		{
+			"url": "assets/font_051.png",
+			"type": "image",
+			"name": "font_051_png"
+		},
+		{
+			"url": "assets/font_052.png",
+			"type": "image",
+			"name": "font_052_png"
+		},
+		{
+			"url": "assets/font_053.png",
+			"type": "image",
+			"name": "font_053_png"
+		},
+		{
+			"url": "assets/font_054.png",
+			"type": "image",
+			"name": "font_054_png"
+		},
+		{
+			"url": "assets/font_055.png",
+			"type": "image",
+			"name": "font_055_png"
+		},
+		{
+			"url": "assets/font_056.png",
+			"type": "image",
+			"name": "font_056_png"
+		},
+		{
+			"url": "assets/font_057.png",
+			"type": "image",
+			"name": "font_057_png"
+		},
+		{
+			"url": "assets/land.png",
+			"type": "image",
+			"name": "land_png"
+		},
+		{
+			"url": "assets/medals_0.png",
+			"type": "image",
+			"name": "medals_0_png"
+		},
+		{
+			"url": "assets/medals_1.png",
+			"type": "image",
+			"name": "medals_1_png"
+		},
+		{
+			"url": "assets/medals_2.png",
+			"type": "image",
+			"name": "medals_2_png"
+		},
+		{
+			"url": "assets/medals_3.png",
+			"type": "image",
+			"name": "medals_3_png"
+		},
+		{
+			"url": "assets/new.png",
+			"type": "image",
+			"name": "new_png"
+		},
+		{
+			"url": "assets/pipe_down.png",
+			"type": "image",
+			"name": "pipe_down_png"
+		},
+		{
+			"url": "assets/pipe_up.png",
+			"type": "image",
+			"name": "pipe_up_png"
+		},
+		{
+			"url": "assets/pipe2_down.png",
+			"type": "image",
+			"name": "pipe2_down_png"
+		},
+		{
+			"url": "assets/pipe2_up.png",
+			"type": "image",
+			"name": "pipe2_up_png"
+		},
+		{
+			"url": "assets/QQZone.png",
+			"type": "image",
+			"name": "QQZone_png"
+		},
+		{
+			"url": "assets/score_panel.png",
+			"type": "image",
+			"name": "score_panel_png"
+		},
+		{
+			"url": "assets/sina.png",
+			"type": "image",
+			"name": "sina_png"
+		},
+		{
+			"url": "assets/TencentWeibo.png",
+			"type": "image",
+			"name": "TencentWeibo_png"
+		},
+		{
+			"url": "assets/text_game_over.png",
+			"type": "image",
+			"name": "text_game_over_png"
+		},
+		{
+			"url": "assets/text_ready.png",
+			"type": "image",
+			"name": "text_ready_png"
+		},
+		{
+			"url": "assets/title.png",
+			"type": "image",
+			"name": "title_png"
+		},
+		{
+			"url": "assets/tutorial.png",
+			"type": "image",
+			"name": "tutorial_png"
+		},
+		{
+			"url": "assets/X1.png",
+			"type": "image",
+			"name": "X1_png"
+		},
+		{
+			"url": "assets/X2.png",
+			"type": "image",
+			"name": "X2_png"
+		},
+		{
+			"name": "num_fnt",
+			"type": "font",
+			"url": "assets/num.fnt"
+		},
+		{
+			"name": "num_png",
+			"type": "image",
+			"url": "assets/num.png"
+		},
+		{
+			"name": "bird_json",
+			"type": "json",
+			"url": "assets/bird.json"
+		},
+		{
+			"name": "bird_png",
+			"type": "image",
+			"url": "assets/bird.png"
+		}
+	]
+}
